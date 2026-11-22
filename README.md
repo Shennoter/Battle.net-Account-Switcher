@@ -57,6 +57,10 @@ dotnet publish src/BattleNetSwitcher/BattleNetSwitcher.csproj -c Release -r win-
 dotnet run --project tests/Smoke/Smoke.csproj
 ```
 
+## 免责声明
+
+本工具仅供学习和个人使用，请勿用于任何违反暴雪/网易服务条款的行为。使用本工具产生的任何后果由使用者自行承担。
+
 ## 参考
 
 会话切换原理参考 [cnbxqhdl](https://github.com/54006/cnbxqhdl)。界面风格参考 Oil UI 的 [Pinch 结账](https://ui.oiloil.org/works/checkout/)。
